@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class ArrayExercises {
     public static void main (String [] args) {
         Scanner in = new Scanner (System.in);
-        
+
         //Program to write a String in reverse
         //First, prompt the user to enter a word
         //save the user input in the variable "word"
